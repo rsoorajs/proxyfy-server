@@ -1,3 +1,7 @@
+RUN THIS CODE WITH SUDO
+
+`sudo python3 proxy.py`
+
 ## proxy_configuraion
 
 [![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
